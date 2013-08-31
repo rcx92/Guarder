@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/jinggao"
+    android:gravity="left"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/yesCountDown"
+        android:layout_width="142dp"
+        android:layout_height="43dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="18dp"
+        android:background="#00000000" />
+
+    <Button
+        android:id="@+id/noCountDown"
+        android:layout_width="142dp"
+        android:layout_height="43dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="160dp"
+        android:background="#00000000" />
+    
+</RelativeLayout>

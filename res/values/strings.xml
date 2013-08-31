@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guarder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="caonidaye">caonidaye!</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="hello">请输入手机号码：</string>
+    <string name="content">请输入信息内容：</string>
+    <string name="send">发送</string>
+    <string name="title_activity_count_down">CountDownActivity</string>
+    <string name="title_activity_config">ConfigActivity</string>
+
+</resources>
